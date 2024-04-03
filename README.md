@@ -15,7 +15,4 @@ Uspešno sva opravila nalogo, ne da bi naletela na večje težave. Med delom sva
 
 
 
-
-
-
-
+![slika vezja](https://github.com/AnzeP12/Arduino_DVIGALO/assets/165130022/09081833-6fa0-4c56-acbd-0760e5384afb)
