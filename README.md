@@ -9,6 +9,7 @@
  -1x breadboard,
  -1x Arduino Uno
 
+KOMENTAR:
 Uspešno sva opravila nalogo, ne da bi naletela na večje težave. Med delom sva opazila možnost izboljšave, zlasti v zvezi s pritiskom na tipko. Oba se strinjava, da bi bilo bolj učinkovito, da tipko enkrat pritisnemo, namesto da bi jo morali neprestano držati.
 
 
