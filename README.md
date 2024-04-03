@@ -19,6 +19,7 @@ SLIKA VEZJA:
 VEZALNA SHEMA:
 
 
+![vezalna shema](https://github.com/AnzeP12/Arduino_DVIGALO/assets/165130022/64809e14-bcb3-4986-8d52-8799a20b5aab)
 
 
 
