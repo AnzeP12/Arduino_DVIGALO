@@ -37,6 +37,7 @@ https://github.com/AnzeP12/Arduino_DVIGALO/assets/165130022/37be25f9-9914-46c0-a
 
 
 
+
 KOMENTAR:
 Uspešno sva opravila nalogo, ne da bi naletela na večje težave. Med delom sva opazila možnost izboljšave, zlasti v zvezi s pritiskom na tipko. Oba se strinjava, da bi bilo bolj učinkovito, da tipko enkrat pritisnemo, namesto da bi jo morali neprestano držati.
 
