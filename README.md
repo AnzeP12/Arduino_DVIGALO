@@ -26,7 +26,8 @@ VEZALNA SHEMA:
 PRIREDBENI SEZNAM:
 
 
-![Priredbeni seznam](https://github.com/AnzeP12/Arduino_DVIGALO/assets/165130022/655ce7f4-9225-4b19-838a-4d7e4f1f4ec1)
+![Priredbeni seznam](https://github.com/AnzeP12/Arduino_DVIGALO/assets/165130022/4f41ca05-dd83-42e7-901e-d33eb4962d45)
+
 
 
 KOMENTAR:
